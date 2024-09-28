@@ -1,0 +1,1 @@
+ /Users/vinoth/myflutterpro/bottombar/.dart_tool/flutter_build/50cc04ea46e92928ff99f1ed55f0c025/native_assets.yaml: 
